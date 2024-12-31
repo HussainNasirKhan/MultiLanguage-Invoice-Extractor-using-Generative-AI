@@ -1,8 +1,4 @@
-**The App is available at:** https://multilanguage-invoice-extractor-using-generative-ai.streamlit.app/
-
-https://github.com/HussainNasirKhan/MultiLanguage-Invoice-Extractor-using-Generative-AI/assets/60567438/86b6d155-8a35-4699-8cab-3d8c98191c96
-
-# MultiLanguage-Invoice-Extractor-using-Generative-AI
+# MultiLanguage Invoice Extractor using Generative AI
 Automatically extract and process invoices in multiple languages with the power of Generative AI. Streamlit frontend for a seamless user experience.🚀
 
 Welcome to the MultiLanguage Invoice Extractor repository! 🚀 This powerful tool leverages cutting-edge Generative AI techniques to automatically extract and process invoices in multiple languages. The streamlined Streamlit frontend provides an intuitive user interface for seamless interaction.
